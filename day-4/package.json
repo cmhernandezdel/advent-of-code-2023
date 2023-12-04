@@ -1,0 +1,11 @@
+{
+  "name": "day-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day4.js",
+  "scripts": {
+    "start": "node day4.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
