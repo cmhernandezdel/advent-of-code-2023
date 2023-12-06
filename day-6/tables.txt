@@ -1,0 +1,22 @@
+record = 7, time = 6
+hold | distance | valid
+  0  |     0    |   X
+  1  |     5    |   X
+  2  |     8    |   V
+  3  |     9    |   V
+  4  |     8    |   V
+  5  |     5    |   X
+  6  |     0    |   X
+
+even: the highest point grants 1 win, every other grants two wins
+
+record = 5, time = 5
+hold | distance | valid
+  0  |     0    |   X
+  1  |     4    |   X
+  2  |     6    |   V
+  3  |     6    |   V
+  4  |     4    |   X
+  5  |     0    |   X
+
+odd: every point grants 1 win
