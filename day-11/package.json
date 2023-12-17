@@ -1,0 +1,12 @@
+{
+    "name": "day-11",
+    "version": "1.0.0",
+    "description": "",
+    "main": "day11.js",
+    "scripts": {
+        "example": "node day11.js example.dat",
+        "input": "node day11.js input.dat"
+    },
+    "author": "",
+    "license": "ISC"
+}
